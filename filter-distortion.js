@@ -1,4 +1,4 @@
-export default class FilterDistortion {
+class FilterDistortion {
   constructor() {
     this.name = 'Distortion';
     this.defaultValues = {
